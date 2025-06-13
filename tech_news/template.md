@@ -3,7 +3,7 @@ title: '一周科技大事 - x'
 description: 'xx年x月第x周'
 pubDate: 'xxxx-xx-xx'
 updatedDate: 'xxxx-xx-xx'
-categories: ['Tech']
+categories: ['WeekTech']
 ---
 **欢迎来看Tom看到的《一周科技大事》**
 >- 这里会每周传递我看到的 AI 领域的产品与技术进展，既会有我的信息梳理，当然也会有信息丢失；<br>

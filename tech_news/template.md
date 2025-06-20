@@ -31,3 +31,41 @@ categories: ['WeekTech']
   <img src="your-image.jpg" alt="描述文本" width="400">
 </p>
 <p align="center"><em>图片注释：这是一张居中的图片和注释</em></p>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>x</th>
+      <th>x</th>
+      <th>x</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>x</strong></td>
+      <td>x</td>
+      <td>x</td>
+    </tr>
+    <tr>
+      <td><strong>x</strong></td>
+      <td>
+        x<br>
+        x
+      </td>
+      <td>
+        x<br>
+        x
+      </td>
+    </tr>
+    <tr>
+      <td><strong>x</strong></td>
+      <td>x</td>
+      <td>x</td>
+    </tr>
+    <tr>
+      <td><strong>x</strong></td>
+      <td>x</td>
+      <td>x</td>
+    </tr>
+  </tbody>
+</table>

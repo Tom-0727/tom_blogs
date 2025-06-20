@@ -1,6 +1,6 @@
 ---
 title: '2025年买房还是理财？'
-description: 'xx年x月第x周'
+description: '人在深圳，是否买房？'
 pubDate: '2025-06-21'
 updatedDate: '2025-06-21'
 categories: ['Insights']
